@@ -15,7 +15,7 @@ This will create a server storing all of our lost toy data with restful routes
 at `http://localhost:3000/toys`. You can also check out
 `http://localhost:3000/toys/:id`
 
-## Fetch Andy's Toys
+<!-- ## Fetch Andy's Toys
 
 On the `index.html` page, there is a `div` with the `id` "toy-collection."
 
@@ -41,7 +41,7 @@ After all of that, the toy card should resemble:
     <p>4 Likes </p>
     <button class="like-btn">Like <3</button>
   </div>
-```
+``` -->
 
 ## Add a New Toy
 
