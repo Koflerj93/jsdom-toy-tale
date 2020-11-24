@@ -20,6 +20,7 @@ fetch("http://localhost:3000/toys")
   }).then(function(objArray){
     for(const toy of objArray){
       renderToys(toy);
+      console.log(toy)
     }
   })
 
